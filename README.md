@@ -152,7 +152,7 @@ Example request:
 
 **Saiteja Vulli**
 
-* 💼 Software Engineer | AI Engineer| AI Enthusiast
+*  Software Engineer | AI Engineer| AI Enthusiast
 *  LinkedIn: https://www.linkedin.com/in/saiteja-vulli-896221247
 *  GitHub: https://github.com/Saitejavulli
 
