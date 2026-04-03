@@ -149,11 +149,10 @@ Example request:
 ---
 
 ##  Author
+MadhuSudhan Reddy Tera
 
-**Saiteja Vulli**
-
-*  Software Engineer | AI Engineer| AI Enthusiast
-*  LinkedIn: https://www.linkedin.com/in/saiteja-vulli-896221247
-*  GitHub: https://github.com/Saitejavulli
+- Software Engineer | SAP AI Developer (BTP, CAP, UI5, Fiori)
+- - LinkedIn: https://linkedin.com/in/madhusudhan-reddy-tera-95599326a  
+- GitHub: https://github.com/madhu7788
 
 ---
