@@ -152,7 +152,7 @@ Example request:
 MadhuSudhan Reddy Tera
 
 - Software Engineer | SAP AI Developer (BTP, CAP, UI5, Fiori)
-- - LinkedIn: https://linkedin.com/in/madhusudhan-reddy-tera-95599326a  
+- LinkedIn: https://linkedin.com/in/madhusudhan-reddy-tera-95599326a  
 - GitHub: https://github.com/madhu7788
 
 ---
